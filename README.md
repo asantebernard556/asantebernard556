@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asantebernard556
+- 👋 Hi, I’m Bernard.
 - 👀 I’m interested in machine learning and telemedicine..
 - 🌱 I’m currently learning machine learning engineering in health
 - 💞️ I’m looking to collaborate on telemedicine app development and building machine learning models for health( python)...
