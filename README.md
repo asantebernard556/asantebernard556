@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bernard.
-- 👀 I’m interested in machine learning and telemedicine..
+- 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning machine learning engineering in health
-- 💞️ I’m looking to collaborate on telemedicine app development and building machine learning models for health( python)...
+- 💞️ I’m looking to collaborate on  building machine learning models for health( python)...
 - 📫 How to reach me asantebernard556@gmail.com..
 
 <!---
